@@ -1,0 +1,74 @@
+{
+	"plugins": [
+		{
+			"type":			"FREE",
+			"name": 		"tsp-easy-dev\/tsp-easy-dev.php",
+			"title": 		"Easy Dev",
+			"desc":			"API for easy WordPress plugin development.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Easy+Dev",
+			"settings":		"#"
+		},
+        {
+            "type":         "FREE",
+            "name":         "tsp-authors-note\/tsp-authors-note.php",
+            "title":        "Author's Note",
+            "desc":         "Author's Note allows you to add author's notes and afterthoughts to your blog posts and pages.",
+            "more_url":     "http://www.thesoftwarepeople.com/software/plugins/wordpress/authors-note-for-wordpress.html#desc",
+            "store_url":    "http://www.thesoftwarepeople.com/software/plugins/wordpress/authors-note-for-wordpress.html",
+            "wp_url":       "/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Authors+Note",
+            "settings":     "admin.php?page=tsp-authors-note.php"
+        },
+		{
+			"type":			"FREE",
+			"name": 		"tsp-disable-auto-save\/tsp-disable-auto-save.php",
+			"title": 		"Disable Auto-Save",
+			"desc":			"API for easy WordPress plugin creation.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/disable-autosave-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/disable-autosave-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Disable+Auto+Save",
+			"settings":		"admin.php?page=tsp-disable-auto-save.php"
+		},
+		{
+			"type":			"FREE",
+			"name": 		"tsp-facepile\/tsp-facepile.php",
+			"title": 		"Facepile",
+			"desc":			"Add wordpress users photo icons to your blog's website in grid format.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/facepile-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/facepile-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Facepile",
+			"settings":		"admin.php?page=tsp-facepile.php"
+		},
+		{
+			"type":			"FREE",
+			"name": 		"tsp-featured-categories\/tsp-featured-categories.php",
+			"title": 		"Featured Categories",
+			"desc":			"Add images to post categories and display them on your blog's website.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/featured-categories-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/featured-categories-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Featured+Categories",
+			"settings":		"admin.php?page=tsp-featured-categories.php"
+		},
+		{
+			"type":			"FREE",
+			"name": 		"tsp-featured-posts\/tsp-featured-posts.php",
+			"title": 		"Featured Posts",
+			"desc":			"Add featured and gallery posts to your blog's website.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/featured-posts-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/featured-posts-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+Featured+Posts",
+			"settings":		"admin.php?page=tsp-featured-posts.php"
+		},
+		{
+			"type":			"PRO",
+			"name": 		"tsp-easy-dev-pro\/tsp-easy-dev-pro.php",
+			"title": 		"Easy Dev (Pro)",
+			"desc":			"API (with improvements and extended functionality) for easy WordPress plugin development.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html",
+			"wp_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html",
+			"settings":		"#"
+		}
+	]
+}

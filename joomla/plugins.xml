@@ -1,0 +1,11 @@
+<extensionset name="The Software Peopple Modules/Components" description="The Software Peopple Modules/Components">
+   <extension name="TSP Facebook Comments" element="mod_tsp_facebook_comments" type="module" version="1.0.0" targetplatformversion="2.5" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_facebook_comments/mod_tsp_facebook_comments.xml"/>
+   <extension name="TSP Facebook Comments" element="mod_tsp_facebook_comments" type="module" version="1.0.0" targetplatformversion="3.0" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_facebook_comments/mod_tsp_facebook_comments.xml"/>
+   <extension name="TSP Facebook Comments" element="mod_tsp_facebook_comments" type="module" version="1.0.0" targetplatformversion="3.1" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_facebook_comments/mod_tsp_facebook_comments.xml"/>
+   <extension name="TSP Facebook Comments" element="mod_tsp_facebook_comments" type="module" version="1.0.0" targetplatformversion="3.5" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_facebook_comments/mod_tsp_facebook_comments.xml"/>
+
+   <extension name="TSP Image Viewer" element="mod_tsp_image_viewer" type="module" version="1.0.0" targetplatformversion="2.5" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer.xml"/>
+   <extension name="TSP Image Viewer" element="mod_tsp_image_viewer" type="module" version="1.0.0" targetplatformversion="3.0" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer.xml"/>
+   <extension name="TSP Image Viewer" element="mod_tsp_image_viewer" type="module" version="1.0.0" targetplatformversion="3.1" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer.xml"/>
+   <extension name="TSP Image Viewer" element="mod_tsp_image_viewer" type="module" version="1.0.0" targetplatformversion="3.5" detailsurl="http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer.xml"/>
+</extensionset>

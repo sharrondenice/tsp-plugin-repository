@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+	   <name>TSP Image Viewer</name>
+	   <description>TSP Image Viewer Module - Provides a method to showcase images of your choice on your blog.</description>
+	   <element>mod_tsp_image_viewer</element>
+	   <type>module</type>
+	   <version>1.0.0</version>
+	   <infourl title="TSP Image Viewer">http://www.thesoftwarepeople.com/software/plugins/joomla/image-viewer.html</infourl>
+	   <downloads>
+	       <downloadurl type="full" format="zip">http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer_1.0.0_Package.zip</downloadurl>
+	   </downloads>
+	   <tags>
+	       <tag>stable</tag>
+	   </tags>
+	   <maintainer>Sharron Denice</maintainer>
+	   <maintainerurl>http://www.sharrondenice.com</maintainerurl>
+	   <targetplatform name="joomla" version="2.5" min_dev_level="0" />
+	</update>
+	<update>
+	   <name>TSP Image Viewer</name>
+	   <description>TSP Image Viewer Module - Provides a method to showcase images of your choice on your blog.</description>
+	   <element>mod_tsp_image_viewer</element>
+	   <type>module</type>
+	   <version>1.0.0</version>
+	   <infourl title="TSP Image Viewer">http://www.thesoftwarepeople.com/software/plugins/joomla/image-viewer.html</infourl>
+	   <downloads>
+	       <downloadurl type="full" format="zip">http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer_1.0.0_Package.zip</downloadurl>
+	   </downloads>
+	   <tags>
+	       <tag>stable</tag>
+	   </tags>
+	   <maintainer>Sharron Denice</maintainer>
+	   <maintainerurl>http://www.sharrondenice.com</maintainerurl>
+	   <targetplatform name="joomla" version="3.0" min_dev_level="0" />
+	</update>
+	<update>
+	   <name>TSP Image Viewer</name>
+	   <description>TSP Image Viewer Module - Provides a method to showcase images of your choice on your blog.</description>
+	   <element>mod_tsp_image_viewer</element>
+	   <type>module</type>
+	   <version>1.0.0</version>
+	   <infourl title="TSP Image Viewer">http://www.thesoftwarepeople.com/software/plugins/joomla/image-viewer.html</infourl>
+	   <downloads>
+	       <downloadurl type="full" format="zip">http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer_1.0.0_Package.zip</downloadurl>
+	   </downloads>
+	   <tags>
+	       <tag>stable</tag>
+	   </tags>
+	   <maintainer>Sharron Denice</maintainer>
+	   <maintainerurl>http://www.sharrondenice.com</maintainerurl>
+	   <targetplatform name="joomla" version="3.1" min_dev_level="0" />
+	</update>
+	<update>
+	   <name>TSP Image Viewer</name>
+	   <description>TSP Image Viewer Module - Provides a method to showcase images of your choice on your blog.</description>
+	   <element>mod_tsp_image_viewer</element>
+	   <type>module</type>
+	   <version>1.0.0</version>
+	   <infourl title="TSP Image Viewer">http://www.thesoftwarepeople.com/software/plugins/joomla/image-viewer.html</infourl>
+	   <downloads>
+	       <downloadurl type="full" format="zip">http://www.thesoftwarepeople.com/plugins/joomla/mod_tsp_image_viewer/mod_tsp_image_viewer_1.0.0_Package.zip</downloadurl>
+	   </downloads>
+	   <tags>
+	       <tag>stable</tag>
+	   </tags>
+	   <maintainer>Sharron Denice</maintainer>
+	   <maintainerurl>http://www.sharrondenice.com</maintainerurl>
+	   <targetplatform name="joomla" version="3.5" min_dev_level="0" />
+	</update>
+</updates>
