@@ -61,6 +61,16 @@
 			"settings":		"admin.php?page=tsp-featured-posts.php"
 		},
 		{
+			"type":			"FREE",
+			"name": 		"tsp-on-this-day\/tsp-on-this-day.php",
+			"title": 		"On This Day",
+			"desc":			"Add blog posts with the same month and day in history on your blog's website.",
+			"more_url":		"http://www.thesoftwarepeople.com/software/plugins/wordpress/on-this-day-for-wordpress.html#desc",
+			"store_url":	"http://www.thesoftwarepeople.com/software/plugins/wordpress/on-this-day-for-wordpress.html",
+			"wp_url":		"/wp-admin/plugin-install.php?tab=search&type=term&s=TSP+On+This+Day",
+			"settings":		"admin.php?page=tsp-on-this-day.php"
+		},
+		{
 			"type":			"PRO",
 			"name": 		"tsp-easy-dev-pro\/tsp-easy-dev-pro.php",
 			"title": 		"Easy Dev (Pro)",
